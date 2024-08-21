@@ -5,6 +5,7 @@
     "image": "https://plus.unsplash.com/premium_photo-1677691961682-490fc5c593bf?q=80&w=1390&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "rating": 4.8,
     "price": "150",
+    "description": "Escape to the ultimate paradise retreat with pristine beaches, lush greenery and luxurious acomodations.",
     "duration": "3",
     "location": "Pacific Ocean",
     "category": "Beaches"
@@ -15,6 +16,7 @@
     "image": "https://images.unsplash.com/photo-1521089815383-cf2b2cf7f0f0?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "rating": 5.8,
     "price": "160",
+    "description": "Escape to the ultimate paradise retreat with pristine beaches, lush greenery and luxurious acomodations.",
     "duration": "5",
     "location": "Pacific Ocean",
     "category": "Cities"
